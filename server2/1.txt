@@ -1,0 +1,12 @@
+ Volume in drive C has no label.
+ Volume Serial Number is CAD5-2A27
+
+ Directory of C:\Users\DELL\source\repos\server2
+
+05/31/2019  05:39 AM    <DIR>          .
+05/31/2019  05:39 AM    <DIR>          ..
+05/31/2019  01:31 AM    <DIR>          Debug
+05/31/2019  08:21 AM    <DIR>          server2
+05/29/2019  06:18 PM             1,434 server2.sln
+               1 File(s)          1,434 bytes
+               4 Dir(s)  161,926,492,160 bytes free
